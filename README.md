@@ -1,1 +1,1 @@
-# find-the-hat
+# Project 2: Find the Hat
