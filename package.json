@@ -1,0 +1,16 @@
+{
+  "name": "jsassessment",
+  "version": "1.0.0",
+  "description": "This package is for JavaScript Assessment",
+  "main": "index.js",
+  "scripts": {
+    "startgame": "node game.js"
+  },
+  "author": "Terry Chie",
+  "license": "ISC",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "terminal-kit": "^2.1.6"
+  }
+}
