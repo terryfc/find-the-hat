@@ -26,4 +26,4 @@ Miscellaneous:
 
 
 Reflection:
-Things I like about this project is "gaining the ability" to create and customise the game. As a gamer myself, the project has made me more appreciative of game creators (I can't even begin to imagine the amount of brain juice, sweat and tears pour into them). Initially I was struggling with moving of the player and trying to understand how 2D array works. This leads me to googling for more informations and samples to have a deeper understanding.
+Things I like about this project is "gaining the ability" to create and customise the game. As a gamer myself, I gained a new level of appreciation towards game creators. Initial part of the project I was struggling with understanding how 2D array works to move the player. This leads me to googling for more informations and samples to have a deeper understanding. I also seek some guidance when I am stuck, to sound out my thoughts and logic so that I can work towards a solution. 
